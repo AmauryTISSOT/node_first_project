@@ -1,0 +1,19 @@
+{
+  "name": "node_first_project",
+  "version": "1.0.0",
+  "description": "Node first project from The Odin Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmauryTISSOT/node_first_project.git"
+  },
+  "author": "Amaury Tissot",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AmauryTISSOT/node_first_project/issues"
+  },
+  "homepage": "https://github.com/AmauryTISSOT/node_first_project#readme"
+}
